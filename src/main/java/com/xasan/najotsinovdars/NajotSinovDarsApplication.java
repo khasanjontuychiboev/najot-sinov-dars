@@ -8,6 +8,8 @@ public class NajotSinovDarsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NajotSinovDarsApplication.class, args);
+
 	}
+
 
 }
